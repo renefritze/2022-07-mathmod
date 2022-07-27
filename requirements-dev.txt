@@ -1,0 +1,10 @@
+ipywidgets
+jupyter-client<7
+jupyterlab-widgets
+jupytext
+myst-nb
+Pillow
+pymor==2022.1.0
+qrcode==7.3.1
+rich
+rise==5.7.1

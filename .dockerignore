@@ -1,0 +1,8 @@
+pymor.ipynb
+.ipynb_checkpoints
+.vscode
+venv
+.cache/
+.jupyter/
+.ipython/
+.local/
