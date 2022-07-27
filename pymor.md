@@ -43,6 +43,8 @@ README has a link to execute the presentation on mybinder.org
 </div>
 
 
++++ {"slideshow": {"slide_type": "slide"}}
+
 # Documentation
 
 <https://docs.pymor.org>
@@ -504,3 +506,22 @@ t_rom = perf_counter() - tic
 ```{code-cell} ipython3
 print(f'Speedup: {t_fom/t_rom}')
 ```
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+<div class="container">
+
+<div>
+
+# Get the slides
+
+## <https://rene.fritze.me/22-mathmod>
+
+README has a link to execute the presentation on mybinder.org
+
+</div>
+
+<div>
+<img src="qr_self.png" />
+</div>
+</div>
